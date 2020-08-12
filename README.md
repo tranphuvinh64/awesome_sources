@@ -39,6 +39,7 @@
 | Name | Link | Description |
 | -----| -----| ------------|
 |transformers|[Link](https://github.com/huggingface/transformers)| huggingface|
+|NLP-with-Python|[Link](https://github.com/susanli2016/NLP-with-Python)|susanli2016|
 ## Useful tools
 
 | Name | Link | Description |

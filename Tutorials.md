@@ -1,16 +1,21 @@
 # Machine Learning
 
-|Name|Link|Author|
-|----|----|------|
-|handson-ml2|[link](https://github.com/ageron/handson-ml2)|ageron|
-
+|Name|Link|Author|Note|
+|----|----|------|----|
+|handson-ml2|[link](https://github.com/ageron/handson-ml2)|ageron||
+|mlbasic|[link](https://github.com/madewithml/basics)|madewithml||
+|stanford-CS229-machinelearning|[link](https://github.com/afshinea/stanford-cs-229-machine-learning)|afshinea|tổng hợp các cheatsheet bằng các ngôn ngữ (có tiếng Việt)|
+|Machine Learning Yearning|[English](https://github.com/ajaymache/machine-learning-yearning) [Vietnamese](https://github.com/aivivn/Machine-Learning-Yearning-Vietnamese-Translation)||
+|LightGBM notebooks|[link](https://github.com/microsoft/LightGBM/tree/master/examples)|microsoft||
 # Deep Learning
 
 |Name|Link|Author|
 |----|----|------|
 |Deep-Learning-Papers-Reading-Roadmap|[link](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap)|floodsung|
-|Model zoo|[Link])(https://modelzoo.co/)|
+|Model zoo|[Link](https://modelzoo.co/)|
 |pretrained-models.pytorch|[Link](https://github.com/Cadene/pretrained-models.pytorch)|Cadene|
+|Dive into Deep Learning|[Link Ebook](https://d2l.ai/d2l-en.pdf) [Vietnmese](https://github.com/aivivn/d2l-vn)||
+|Deep Learning with Pytorch|[Link](https://www.fast.ai/)||
 # Data Analytics
 
 |Name|Link|Author|
