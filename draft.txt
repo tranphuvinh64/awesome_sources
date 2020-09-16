@@ -1,0 +1,35 @@
+https://github.com/TheAlgorithms/Python
+
+Learn Pytorch, Tensorflow, Machine Learning Algorithms
+https://www.youtube.com/c/AladdinPersson/playlists
+
+
+https://github.com/krzjoa/awesome-python-data-science
+
+https://github.com/prakhar1989/awesome-courses
+
+
+Courses Videos and Lectures, Papers, Tutorials, Researchers, Websites,
+Datasets, Conferences, Frameworks, Tools, Miscellaneous Contributing
+https://github.com/ChristosChristofidis/awesome-deep-learning
+
+
+https://github.com/keon/awesome-nlp
+
+https://github.com/bharathgs/Awesome-pytorch-list
+
+https://github.com/ujjwalkarn/Machine-Learning-Tutorials
+
+
+https://github.com/weiaicunzai/awesome-image-classification
+
+https://github.com/ageron/handson-ml2
+
+https://github.com/donnemartin/data-science-ipython-notebooks
+
+https://github.com/eriklindernoren/ML-From-Scratch
+
+
+https://github.com/jakevdp/PythonDataScienceHandbook
+
+https://github.com/karpathy/minGPT/blob/master/play_image.ipynb

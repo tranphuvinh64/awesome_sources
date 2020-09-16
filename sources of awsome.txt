@@ -1,0 +1,24 @@
+Python design patterns
+https://github.com/faif/python-patterns
+
+https://github.com/MaximAbramchuck/awesome-interview-questions
+
+Python Data Structures and Algorithms
+https://github.com/prabhupant/python-ds
+https://github.com/keon/algorithms
+
+
+Awesome Python
+https://github.com/vinta/awesome-python
+https://github.com/mahmoud/awesome-python-applications
+
+Docker
+https://github.com/veggiemonk/awesome-docker
+
+https://github.com/k4m4/terminals-are-sexy
+
+https://github.com/humiaozuzu/awesome-flask
+
+https://github.com/lorien/awesome-web-scraping
+
+https://github.com/jghoman/awesome-apache-airflow
