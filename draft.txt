@@ -33,3 +33,7 @@ https://github.com/eriklindernoren/ML-From-Scratch
 https://github.com/jakevdp/PythonDataScienceHandbook
 
 https://github.com/karpathy/minGPT/blob/master/play_image.ipynb
+
+https://github.com/mhagiwara/100-nlp-papers
+
+https://github.com/EthicalML/awesome-production-machine-learning
